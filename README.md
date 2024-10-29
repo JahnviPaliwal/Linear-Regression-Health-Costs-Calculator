@@ -1,2 +1,2 @@
 # Linear-Regression-Health-Costs-Calculator
-The Linear Regression Health Costs Calculator project aims to predict healthcare costs based on various demographic and health-related factors using a regression algorithm. The primary objective is to create a model that can accurately estimate healthcare expenses, achieving a Mean Absolute Error (MAE) of less than $3,500.
+This project focuses on applying linear regression techniques to real-world data. Participants work with a dataset that includes information about individuals' demographics, lifestyle choices, and their corresponding healthcare costs. By analyzing this data, the project provides insights into how different factors influence healthcare expenses.
